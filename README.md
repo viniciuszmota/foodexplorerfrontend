@@ -44,6 +44,8 @@ Ao baixar ou clonar o projeto execute no terminal da aplicação:
 
 Você precisará executado o backend da aplicação disponível no repositório abaixo:
 
+https://github.com/viniciuszmota/foodexplorerbackend
+
 🙋‍♀️🙋‍♂️ Acesso Administrador:
 
 Email: admin@admin.com </br>
@@ -56,7 +58,7 @@ Senha: 123456
 
 ## 👨‍💻 Deploy:
 
-Endereço:
+Endereço: https://foodexplorervini.netlify.app/
 
 ---
 
